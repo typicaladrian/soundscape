@@ -17,4 +17,4 @@
 
 # Back to the backend.
 7. Navigate to the outer backend folder. 
-8. Run "python3 manage.py runserver
+8. Run "python3 manage.py runserver"
